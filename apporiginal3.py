@@ -302,4 +302,4 @@ elif menu == "📊 Estadísticas por Provincia":
     st.plotly_chart(fig_anemia_prov, use_container_width=True)
 
 st.markdown("---")
-st.caption("Desarrollado por 💜 **Kely Zulema Ponce Quispe** | Streamlit + Scikit-Learn + Plotly")
+st.caption("Desarrollado por 💜 **Kelly Zulema Ponce Quispe** | Streamlit + Scikit-Learn + Plotly")
